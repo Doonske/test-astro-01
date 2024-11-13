@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: Donske
+  site: 'https://Donske.vercel.app'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
+    default: Donske
+    template: '%s — Donske'
   description: "\U0001F680 test"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: Donske
     images:
       - url: '~/assets/images/default.png'
         width: 1200
