@@ -1,6 +1,6 @@
 site:
-  name: Donske
-  site: 'https://Donske.vercel.app'
+  name: Doonske
+  site: 'https://doonske.de'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,16 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: Donske
-    template: '%s — Donske'
-  description: "\U0001F680 test"
+    default: Doonske
+    template: '%s | Doonske'
+  description:
+    "\U0001F680 Sie suchen eine neue Webseite, Unterstützung beim Relaunch oder bei der laufenden Betreuung? Ich helfe Ihnen gerne
+    weiter!"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: Donske
+    site_name: Doonske
     images:
       - url: '~/assets/images/default.png'
         width: 1200
