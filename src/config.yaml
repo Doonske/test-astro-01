@@ -1,10 +1,10 @@
 site:
   name: Doonske
-  site: 'https://doonske.de'
+  site: 'http://doonske.de'
   base: '/'
   trailingSlash: false
 
-  googleSiteVerificationId: none
+  googleSiteVerificationId: G-5D40366TH1
 
 # Default SEO metadata
 metadata:
@@ -68,7 +68,7 @@ apps:
 analytics:
   vendors:
     googleAnalytics:
-      id: null # or "G-XXXXXXXXXX"
+      id: 'G-5D40366TH1'
 
 ui:
   theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"

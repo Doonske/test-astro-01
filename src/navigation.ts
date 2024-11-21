@@ -196,6 +196,6 @@ export const footerData = {
     { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/Doonske' },
   ],
   footNote: `
- <a class="dark:text-muted">Daniel Kern</a> · All rights reserved.
+ Daniel Kern · All rights reserved.
   `,
 };
